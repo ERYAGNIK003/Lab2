@@ -1,6 +1,6 @@
 This one is complete game implemetation, If you haven't understand problem statement yet , then start as per following steps.
 
-Step 1: First implement User Input Circuit using pushbuttons and resistors, calibrate it.[See calibration code-Calb.c]
+Step 1: First implement User Input Circuit using pushbuttons and resistors, calibrate it.[See calibration code-Calb.ino]
 Step 2: Use random functions to generate random parameters stated in problem statement, so later you can use it. Ex: generaates 
         row and col, score , timeout values.Make functions of individual that can be used on later stage.
 Step 3: Implement LCD interfacing code with Uno , but as per specified in document, devide display into frame area, game score 
