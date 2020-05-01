@@ -1,0 +1,13 @@
+This one is complete game implemetation, If you haven't understand problem statement yet , then start as per following steps.
+
+Step 1: First implement User Input Circuit using pushbuttons and resistors, calibrate it.[See calibration code-Calb.c]
+Step 2: Use random functions to generate random parameters stated in problem statement, so later you can use it. Ex: generaates 
+        row and col, score , timeout values.Make functions of individual that can be used on later stage.
+Step 3: Implement LCD interfacing code with Uno , but as per specified in document, devide display into frame area, game score 
+        area and game timeout area, Display some random values generataes using above functions and make it working as stated 
+        in problem.
+Step 4: Understand use of delay() and millis() function.Justify one for your solution.
+Step 5: Now, just integrate all codes as per problem statement.
+
+NOTE: Implement and understand step1-4 as individual  and in step 5 try to make full code w.r.t problem statement.
+       Try to implment functions , so you can use it on later stage.
